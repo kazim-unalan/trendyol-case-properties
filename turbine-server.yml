@@ -1,0 +1,6 @@
+server:
+  port: 9999
+
+turbine:
+  appConfig: frontend-server
+  clusterNameExpression: new String('default')
